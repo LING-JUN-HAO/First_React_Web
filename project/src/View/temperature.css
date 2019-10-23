@@ -1,0 +1,22 @@
+.temperature{
+    position: relative;
+    font-size: 30px;
+    top:330px;
+    left: 90px;
+}
+.tenoerature_text{
+    font-weight: weight;
+    color: red;
+    font-size: 50px;
+    position: relative;
+    top: 480px;
+    left: 520px;;
+}
+.span_temparture{
+    font-size: 25px;
+}
+.input{
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 25px;
+}

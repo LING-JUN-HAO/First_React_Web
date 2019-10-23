@@ -1,0 +1,36 @@
+.title{
+    color: #21a51e;
+}
+.select{
+    appearance:none;
+    -moz-appearance:none;
+    -webkit-appearance:none;
+
+    background: url("./image/arrow..png") no-repeat right center transparent;
+    font-size: 30px;
+    border:0px;
+    width:100%;
+    height:34px;
+    padding-left:55px;
+    background-color:#F6F7F7;
+    color:gray;
+    width: 160px;
+    height: 40px;
+    position: relative;
+    left: 100px;
+    top: 100px
+}
+.photo{
+    float: right;
+    margin: 0 130px;
+    height: 300px;
+    width: 300px;
+}
+.boy{
+    position: relative;
+    margin-left: 530px;
+}
+.girl{
+    position: relative;
+    margin-left: 530px;
+}

@@ -1,0 +1,44 @@
+.body {
+    font-family: 'latoregular';
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.h1_text {
+    font-size: 50px;
+    font-weight: normal;
+    line-height: 50px;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+    color: #99fa99;
+    text-decoration: none;
+}
+
+.span_text {
+    font-family: 'nixie_oneregular';
+    color: #b6d8cf;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+}
+.center{
+    background: #ffffff;
+	margin: 0 auto;
+	max-width: 880px;
+	min-height: 827px;
+	overflow: hidden;
+	padding: 45px 40px 50px;
+}
+.footer{
+    margin: 0 auto;
+	max-width: 960px;
+	overflow: hidden;
+	padding: 30px 0 60px;
+}
